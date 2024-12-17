@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 557c99e820396e64884277934454de9d
+  - enabled: 1
+    path: Assets/Scenes/Scene Mimpi.unity
+    guid: c4216c70364328944b4ddb8fc0b8f726
+  - enabled: 1
+    path: Assets/Scenes/Scene Kamar.unity
+    guid: 54b0819b63f650e4a99d0dfa8e25a52a
+  - enabled: 1
+    path: Assets/Scenes/Scene Kolong Kasur.unity
+    guid: 942778e4b323b454f812c5837221d947
+  - enabled: 1
+    path: Assets/Scenes/Scene Meja.unity
+    guid: 81030ba396269164ea545640029e3016
+  - enabled: 1
+    path: Assets/Scenes/Scene Syahdan.unity
+    guid: 7abf8c0c72b12074aa314d39b1063486
+  - enabled: 1
+    path: Assets/Scenes/Scene Kelas.unity
+    guid: 23ce88f8bce0a7e41a7b696f13aaf302
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 68721fa556b494d4f864fac402d82f6d
+  m_configObjects: {}
